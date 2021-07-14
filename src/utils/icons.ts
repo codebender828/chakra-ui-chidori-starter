@@ -10,6 +10,10 @@ export {
   feArrowLeft,
   fePieChart,
   feUser,
-  feBookOpen
+  feBookOpen,
+  feActivity,
+  feSettings,
+  feHome,
+  feGithub
   // @ts-ignore
 } from 'feather-icons-paths'
