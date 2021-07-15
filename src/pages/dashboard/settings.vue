@@ -18,7 +18,7 @@
               View reports
             </c-app-link>
           </c-h-stack>
-          <c-button align-self="start" size="sm" as="a" left-icon="github" href="https://github.com/codebender828/chakra-ui-chidori-starter/blob/main/src/pages/settings.vue" target="_blank" variant="outline" color-scheme="gray">
+          <c-button align-self="start" size="sm" as="a" left-icon="github" href="https://github.com/codebender828/chakra-ui-chidori-starter/blob/main/src/pages/dashboard/settings.vue" target="_blank" variant="outline" color-scheme="gray">
             View source
           </c-button>
         </c-stack>
