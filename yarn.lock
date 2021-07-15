@@ -1164,10 +1164,12 @@ fastq@^1.6.0:
   dependencies:
     reusify "^1.0.4"
 
-feather-icons-paths@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/feather-icons-paths/-/feather-icons-paths-1.1.0.tgz#e974f23eebab7534281667ae20ebb235490f6a6c"
-  integrity sha512-LIZihGbfy5dc1s4Ni7DEjAjR7McuFubNVff8EoMIg2wJYbl/wn9WP8K30aAcw2XehMvtZb2OknOj/iV8foeusw==
+feather-icons-paths@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/feather-icons-paths/-/feather-icons-paths-1.1.1.tgz#fa6161e5d459639992847f5fd968705b553d9a97"
+  integrity sha512-/tJRkJiRD3U3ZxxAFahlAnFYyYf6FyupwHbWZCi4W+5DAmNeJVvmSXFeDvWY0VT+RTcqqpCdNtT3YnDUfZyTKw==
+  dependencies:
+    "@vitejs/plugin-vue" "^1.2.5"
 
 fill-range@^7.0.1:
   version "7.0.1"

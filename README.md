@@ -3,15 +3,16 @@
 Template for Chakra UI Vue v1 with Typescript, Vite, components auto-importing, layouts, and static site generation.
 
 ## Features ✨
-✅ Vue 3
-✅ Gradients support
-✅ CSS Variables support
-✅ Dark mode ready
-✅ Component style overrides
-✅ Custom component theming API
-✅ Custom variants
-✅ Components auto-import
-✅ SSG on Vite
+- ✅ Vue 3
+- ✅ Gradients support
+- ✅ CSS Variables support
+- ✅ Dark mode ready
+- ✅ Component style overrides
+- ✅ Feather icons ready
+- ✅ Custom component theming API
+- ✅ Custom variants
+- ✅ Components auto-import
+- ✅ SSG on Vite
 
 > Note: This template is currently built using an alpha release of **[`@chakra-ui/vue-next`](https://github.com/chakra-ui/chakra-ui-vue-next).**
 
