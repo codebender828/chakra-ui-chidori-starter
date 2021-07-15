@@ -1,6 +1,5 @@
 export {
   feBook,
-  feMenu,
   feMessageCircle,
   fePackage,
   feSearch,
@@ -15,4 +14,6 @@ export {
   feSettings,
   feHome,
   feGithub,
+  feMenu,
+  feX
 } from 'feather-icons-paths'
