@@ -14,6 +14,5 @@ export {
   feActivity,
   feSettings,
   feHome,
-  feGithub
-  // @ts-ignore
+  feGithub,
 } from 'feather-icons-paths'

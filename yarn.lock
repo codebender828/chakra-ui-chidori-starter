@@ -1164,10 +1164,10 @@ fastq@^1.6.0:
   dependencies:
     reusify "^1.0.4"
 
-feather-icons-paths@^1.0.8:
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/feather-icons-paths/-/feather-icons-paths-1.0.8.tgz#5cd68b6a1eb22b1ec08a8b2eaaf05a345cb216e4"
-  integrity sha512-B07o6Vtx3ATZDbsdx6jyYEXEmsn7Rwl0tT80657DL3kHf9Fo4Jncun3nxjZjNHbhKmd44wFXH269kU893E1DhQ==
+feather-icons-paths@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/feather-icons-paths/-/feather-icons-paths-1.1.0.tgz#e974f23eebab7534281667ae20ebb235490f6a6c"
+  integrity sha512-LIZihGbfy5dc1s4Ni7DEjAjR7McuFubNVff8EoMIg2wJYbl/wn9WP8K30aAcw2XehMvtZb2OknOj/iV8foeusw==
 
 fill-range@^7.0.1:
   version "7.0.1"
@@ -2278,7 +2278,7 @@ type-check@~0.3.2:
   dependencies:
     prelude-ls "~1.1.2"
 
-typescript@^4.3.2:
+typescript@^4.1.3:
   version "4.3.5"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.3.5.tgz#4d1c37cc16e893973c45a06886b7113234f119f4"
   integrity sha512-DqQgihaQ9cUrskJo9kIyW/+g0Vxsk8cDtZ52a3NGh0YNTfpUSArXSohyUGnvbPazEPLu398C0UxmKSOrPumUzA==
